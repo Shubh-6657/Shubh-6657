@@ -2,7 +2,7 @@
 
 I build web applications end-to-end and care just as much about making sure they actually work — comfortable across the stack as well as with testing and quality processes.
 
-- 🌱 Learning ML/data analysis 
+- 🌱 Currently leveling up in ML/data analysis with Python and exploring test automation frameworks 
 - 💼 Past internships: Agile development, Flask (Sleeksites.in)
 - ⚡ Fun fact: my GitHub bio says "Error 404: Free time not found" — accurate
 
